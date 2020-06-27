@@ -11,6 +11,6 @@ Shader class supports shader loading, compiling, and setting.
 Implementation of Oriented-Bounding Box.
 
 ### Obj Loader
-Simple mesh library. Load {.obj} file, analysis it, and generate mesh structures for geometric processing and collision detections.
+Simple mesh library. Load {.obj} file, analyze it, and generate mesh structures for geometric processing and collision detections.
 
 <img src="screenshot/obb.jpg" width="50%">
